@@ -54,6 +54,7 @@ The installer comes pre-configured with popular agent plugins and supports custo
 | :--- | :--- | :--- |
 | **Superpowers** | `https://github.com/obra/superpowers.git` | Brainstorming, execution planning, and systematic agent workflows |
 | **Understand-Anything** | `https://github.com/Egonex-AI/Understand-Anything.git` | Codebase knowledge graph, interactive dashboard, and domain analysis |
+| **visual-explainer** | `https://github.com/nicobailon/visual-explainer.git` | Interactive HTML diagrams, architecture visuals, and diff reviews in browser |
 | **Custom Repository** | *Any Git URL* | Automatically discovers and symlinks any repository containing `SKILL.md` |
 
 ---

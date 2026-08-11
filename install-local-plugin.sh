@@ -19,6 +19,7 @@ PROJECT_ROOT="$(git rev-parse --show-toplevel 2>/dev/null || pwd)"
 KNOWN_PLUGINS=(
     "Superpowers|https://github.com/obra/superpowers.git|Brainstorming, execution planning, and systematic agent workflows"
     "Understand-Anything|https://github.com/Egonex-AI/Understand-Anything.git|Codebase knowledge graph, interactive dashboard, and domain analysis"
+    "visual-explainer|https://github.com/nicobailon/visual-explainer.git|Interactive HTML diagrams, architecture visuals, and diff reviews in browser"
 )
 
 # Helper function to read user input across standard terminal and curl-pipe environments
